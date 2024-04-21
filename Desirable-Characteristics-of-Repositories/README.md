@@ -17,5 +17,5 @@ It goes on to explain that the concept of an "agency-designated" repository is t
 
 ## *Desirable Characteristics of Data Repositories for Federally Funded Research*
 
-The *Desirable Characteristics of Digital Publication Repositories* document credits the OSTP's *Desirable Characteristics of Data Repositories for Federally Funded Research* document as a source. A copy is included here, with permission, as a reference ([downloaded from Smithsonian Research Online](https://repository.si.edu/handle/10088/113528?show=full) on 2024-06-21).
+The *Desirable Characteristics of Digital Publication Repositories* document acknowledges the OSTP's *Desirable Characteristics of Data Repositories for Federally Funded Research* document as a complementary framework. A copy is included here, with permission, as a reference ([downloaded from Smithsonian Research Online](https://repository.si.edu/handle/10088/113528?show=full) on 2024-06-21).
 
