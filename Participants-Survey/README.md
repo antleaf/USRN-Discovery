@@ -1,2 +1,2 @@
 # USRN Discovery Particpant Survey
-The USRN Discovery project consudcted a survey of participating repositories. The results are summarised here.
+The USRN Discovery project conducted a survey of participating repositories. The results are summarised here.
