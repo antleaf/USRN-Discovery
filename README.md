@@ -1,4 +1,4 @@
 # USRN-Discovery
 Resources supporting the USRN-Discovery Project.
 
-These resources are primarily [organised through the wiki](https://github.com/antleaf/USRN-Discovery/wiki).
+The primary resource is the Toolkit, organised and deployed in the [wiki for this repository](https://github.com/antleaf/USRN-Discovery/wiki).
